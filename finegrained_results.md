@@ -12,7 +12,7 @@ For each candidate-LLM, we show the fine-grained per-question-type results of ru
 | Extraction | 8.01 ± 0.08 | 8.41 ± 0.03 | 8.41 ± 0.05 |
 | STEM | 8.93 ± 0.02 | 8.96 ± 0.01 | 9.00 ± 0.00 | 
 | Humanities | 8.71 ± 0.01 | 8.92 ± 0.01 | 8.88 ± 0.02 |
-|
+
 
 *Command R*
 
@@ -26,7 +26,7 @@ For each candidate-LLM, we show the fine-grained per-question-type results of ru
 | Extraction | 8.29 ± 0.05 | 8.69 ± 0.03 | 8.80 ± 0.02 |
 | STEM | 8.87 ± 0.01 | 9.00 ± 0.00 | 8.96 ± 0.02 | 
 | Humanities | 8.89 ± 0.03 | 8.96 ± 0.01 | 8.90 ± 0.02 |
-|
+
 
 *Llama 3.1 70B Instruct*
 
@@ -40,6 +40,6 @@ For each candidate-LLM, we show the fine-grained per-question-type results of ru
 | Extraction | 8.47 ± 0.06 | 8.88 ± 0.03 | 8.79 ± 0.04 |
 | STEM | 8.90 ± 0.03 | 8.69 ± 0.01 | 8.95 ± 0.03 | 
 | Humanities | 8.69 ± 0.06 | 9.00 ± 0.00 | 8.92 ± 0.01 |
-|
+
 
 
